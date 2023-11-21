@@ -1,0 +1,28 @@
+//
+// Block editor styles.
+//
+// @package    Sidebar Block
+// @copyright  WebMan Design, Oliver Juhas
+//
+// @since  1.0.0
+//
+
+.wp-block-wmd-sidebar {
+	padding: .618em;
+	text-align: center;
+	border: 1px solid;
+	border-radius: .382em;
+	cursor: default;
+
+	.icon {
+		display: inline-block;
+		margin-inline-end: .382em;
+
+		svg {
+			position: relative;
+			width: 1.618em;
+			top: -.1em;
+			vertical-align: middle;
+		}
+	}
+}
