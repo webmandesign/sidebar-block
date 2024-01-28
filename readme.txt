@@ -57,7 +57,9 @@ Yes. This is possible by using additional [sidebar management plugin](https://wo
 
 == Screenshots ==
 
-1. Preview of the block functionality
+1. Preview of sidebar displayed on front-end of the website
+2. How to display a sidebar within block editor
+3. How to set up sidebar widgets
 
 
 == Changelog ==
